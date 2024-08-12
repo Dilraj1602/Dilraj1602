@@ -1,3 +1,9 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dilraj1602.dilraj1602" alt="Visitor Badge" />
+</div>
+<br/>
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilraj!;" />
 </h1>
@@ -32,10 +38,6 @@
 <br/>
 
 <!-- Visitor Badge -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dilraj1602.dilraj1602" alt="Visitor Badge" />
-</div>
-<br/>
 
 <h2 align="center">⚒️ Languages, Frameworks, & Tools ⚒️</h2>
 <br/>
