@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dilraj1602&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
-
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilraj!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
