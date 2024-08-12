@@ -1,8 +1,8 @@
+<!-- Visitor Badge in the top right corner -->
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dilraj1602.dilraj1602" alt="Visitor Badge" />
 </div>
 <br/>
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilraj!;" />
@@ -29,15 +29,13 @@
   <a href="https://www.linkedin.com/in/dil-raj-503b44266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/WOLFStrix360/" target="_blank">
+  <a href="https://leetcode.com/u/WOLFStrix360/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
 
 <hr/>
 <br/>
-
-<!-- Visitor Badge -->
 
 <h2 align="center">⚒️ Languages, Frameworks, & Tools ⚒️</h2>
 <br/>
