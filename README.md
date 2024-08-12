@@ -1,7 +1,5 @@
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dil+Raj!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilraj!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
@@ -14,11 +12,10 @@
  
  💻 I’m currently learning full-stack development.
 
- 💬 Ask me about **Node.js, React, JavaScript, CSS, HTML... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, JavaScript, CSS, HTML... or anything [here](https://github.com/dilraj1602/dilraj1602/issues)**
 
 </div>
 
- 
 <div align="center"> 
   <a href="mailto:bt22cse183@iiitn.ac.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,7 +30,13 @@
 
 <hr/>
 <br/>
- 
+
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dilraj1602.dilraj1602" alt="Visitor Badge" />
+</div>
+<br/>
+
 <h2 align="center">⚒️ Languages, Frameworks, & Tools ⚒️</h2>
 <br/>
 <br/>
@@ -47,14 +50,21 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,nextjs,mysql" />
 </div>
 
-
 <br/>
 <hr/>
 
 <br/><br/>
 
-
-
-
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<br/>
+<div align="center">
+  <!-- Dark Theme GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dilraj1602&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <!-- Dark Theme Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilraj1602&layout=compact&hide_title=true&theme=dark" alt="Top Languages" />
+</div>
 
 <br/>
