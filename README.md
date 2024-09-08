@@ -55,16 +55,5 @@
 
 <br/><br/>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<br/>
-<div align="center">
-  <!-- Dark Theme GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dilraj1602&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <!-- Dark Theme Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilraj1602&layout=compact&hide_title=true&theme=dark" alt="Top Languages" />
-</div>
 
 <br/>
