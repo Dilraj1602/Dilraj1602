@@ -18,7 +18,11 @@
  
  💻 I’m currently learning full-stack development.
 
- 💬 Ask me about **Node.js, React, JavaScript, CSS, HTML... or anything [here](https://github.com/dilraj1602/dilraj1602/issues)**
+💬 Ask Me Anything!
+
+I'm experienced in Node.js, React, JavaScript, CSS, HTML, and the MERN Stack. I'm also skilled in Python, C++, C, Java, and Data Structures & Algorithms (DSA).
+
+Feel free to reach out with questions or collaboration ideas — let's build something amazing together! Open an issue here 🚀
 
 </div>
 
