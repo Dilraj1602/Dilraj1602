@@ -16,7 +16,7 @@
  
  🎓 I’m currently pursuing my bachelor's degree from the Indian Institute of Information Technology, Nagpur.
  
- 💻 I’m currently learning full-stack development.
+ 🔍 Currently exploring Machine Learning to expand my skill set!
 
 💬 Ask Me Anything!
 
