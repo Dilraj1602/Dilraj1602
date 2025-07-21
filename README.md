@@ -19,18 +19,17 @@
     - 4-Star (1823+) on CodeChef  
     - College Topper 5× on CodeStudio  
 - 🥇 **Always Exploring:** Tech stacks, product design, and efficient algorithms  
-- 🌐 **[Portfolio Website](https://dil-raj-portfolio.onrender.com)**  
+- 🌐 <a href="https://dil-raj-portfolio.onrender.com" target="_blank" rel="noopener noreferrer"><strong>Portfolio Website</strong></a>
 
 ---
 
 ## ⚡ Recent Projects
 
-
 | Project        | Tech Stack                                       | Key Impact & Highlights                                                                                                               |
 |----------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **FinGenius**  | React, Next.js, Supabase, Gemini AI              | AI-driven finance assistant with Gemini-powered receipt scanning; digital dashboards (bar/pie charts); real-time analytics, insights, and AI-guided recommendations for 1,000+ users. |
-| **SolarOptima**| Streamlit, XGBoost, Pandas, Pysolar              | Engineered solar elevation forecasting tool (R² 0.9985, MAE 1.11); real-time interactive insights for optimized solar planning.        |
-| **StudyTrack** | MERN, JWT, Cookies, OpenAI API, Custom Chatbot   | Led development of full-stack study tracker featuring AI insights, automated study summaries, LeaderBot for goal tracking, and in-app chatbot for productivity coaching.   |
+| <strong>FinGenius</strong>  | React, Next.js, Supabase, Gemini AI              | AI-driven finance assistant with Gemini-powered receipt scanning; digital dashboards (bar/pie charts); real-time analytics, insights, and AI-guided recommendations for 1,000+ users. |
+| <strong>SolarOptima</strong>| Streamlit, XGBoost, Pandas, Pysolar              | Engineered solar elevation forecasting tool (R² 0.9985, MAE 1.11); real-time interactive insights for optimized solar planning.        |
+| <strong>StudyTrack</strong> | MERN, JWT, Cookies, OpenAI API, Custom Chatbot   | Led development of full-stack study tracker featuring AI insights, automated study summaries, LeaderBot for goal tracking, and in-app chatbot for productivity coaching.   |
 
 <p align="center"><i>And of course, all projects built with a pinch of fun, a dash of curiosity, and lots of ❤️ & ☕!</i></p>
 
@@ -70,16 +69,16 @@ Vercel, Netlify, Render, Streamlit, Supabase
 ## 🏅 Competitive Programming Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/u/WOLFStrix360/">
+  <a href="https://leetcode.com/u/WOLFStrix360/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/wolfstrix360">
+  <a href="https://www.codechef.com/users/wolfstrix360" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://www.naukri.com/code360/profile/Dilraj">
+  <a href="https://www.naukri.com/code360/profile/Dilraj" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CodeStudio-333333?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/wolfstrix360/">
+  <a href="https://www.geeksforgeeks.org/user/wolfstrix360/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </div>
@@ -89,13 +88,13 @@ Vercel, Netlify, Render, Streamlit, Supabase
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="mailto:bt22cse183@iiitn.ac.in">
+  <a href="mailto:bt22cse183@iiitn.ac.in" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/dil-raj-503b44266/" target="_blank">
+  <a href="https://www.linkedin.com/in/dil-raj-503b44266/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Dilraj1602">
+  <a href="https://github.com/Dilraj1602" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
