@@ -28,31 +28,54 @@
 
 ## 🚀 Tech Stack  
 
-**Languages**  
-![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![C](https://skillicons.dev/icons?i=c)
-
-**Frameworks & Libraries**  
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-**Databases & Tools**  
-![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Figma](https://skillicons.dev/icons?i=figma)
-
-**AI/ML & Data Science**  
-TensorFlow | Scikit-learn | Pandas | Matplotlib | Jupyter  
-
-**Cloud & Platforms**  
-Vercel | Netlify | Render | Streamlit | Supabase  
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,c" /><br>
+    </td>
+    <td align="center" width="25%">
+      <h3>Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" /><br>
+    </td>
+    <td align="center" width="25%">
+      <h3>Databases & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux,figma" /><br>
+    </td>
+    <td align="center" width="25%">
+      <h3>AI/ML</h3>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+</table>  
 
 ---
+
+### ☁️ Cloud & Platforms  
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
 
 ## 📌 Featured Projects  
 
 
+## 🚀 Featured Projects  
+
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| [**FinGenius**](https://github.com/Dilraj1602/FinGenius) | React, Next.js, Supabase, Gemini AI | AI-driven finance assistant with receipt scanning, real-time analytics & dashboards serving **1,000+ users** |
-| [**SolarOptima**](https://github.com/Dilraj1602/SolarOptima) | Streamlit, XGBoost, Pandas, Pysolar | Solar elevation forecasting tool with **R² = 0.9985**, real-time interactive insights |
-| [**StudyTrack**](https://github.com/Dilraj1602/StudyTrack) | MERN, JWT, OpenAI API, Custom Chatbot | AI-assisted study tracker with summaries, LeaderBot goal tracking & in-app productivity chatbot |
+| [**StudyTrack**](https://github.com/Dilraj1602/StudyTrack) | MERN, JWT, Chart.js, Gemini AI | Full-stack study tracker with secure JWT authentication, encrypted storage, real-time leaderboard & Nodemailer notifications. Integrated Gemini AI for 90% chatbot automation, advanced search, task logging, and Chart.js visual analytics. Optimized frontend with memoization & Framer Motion animations. |
+| [**FinGenius**](https://github.com/Dilraj1602/FinGenius) | React, Next.js, Tailwind, Supabase, Gemini AI | AI-driven financial assistant with account & transaction management. Features include smart filtering/sorting, automated receipt categorization (via Gemini AI), predictive analytics (budget alerts, savings tips), and ShadCN UI for responsive dashboards. |
+| [**SolarOptima**](https://github.com/Dilraj1602/SolarOptima) | Streamlit, XGBoost, Pandas, Sklearn, Pysolar | Solar elevation forecasting system with **R² = 0.9985** and MAE of 1.11. Built a Streamlit app for real-time predictions, leveraging tuned XGBoost model parameters and Pysolar for precise solar calculations. |
+
 
 ---
 
