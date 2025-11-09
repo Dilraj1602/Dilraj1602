@@ -17,10 +17,10 @@
 - 🤖 **AI/ML Innovator** – Built **FinGenius**, **SolarOptima**, **StudyTrack**  
 - 🧑‍💼 **Leadership** – Scaled apps serving **1K+ users**  
 - 📈 **Coding Achievements**  
-  - 💻 **2,500+** DSA problems solved  
-  - 🏅 Knight (2000+) **LeetCode**  
+  - 💻 **3000+** DSA problems solved  
+  - 🏅 Guardian (2127+) **LeetCode**  
   - 🥇 Master (2300+) **CodeStudio**  
-  - ⭐ 4-Star (1823+) **CodeChef**  
+  - ⭐ 4-Star (1883+) **CodeChef**  
   - 🏆 5× **College Topper** on CodeStudio  
 - 🌐 [**Portfolio Website**](https://dil-raj-portfolio.onrender.com)
 
