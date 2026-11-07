@@ -117,22 +117,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilraj1602&theme=onestar&no-frame=true&no-bg=true&margin-w=15" />
-</p>  
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilraj1602&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>  
-
----
-
 ## 🎓 Coursework & Certifications  
 
 - 📘 Data Structures & Algorithms  
